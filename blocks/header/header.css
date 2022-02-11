@@ -1,6 +1,8 @@
 .header {
-    height: 52px;
-    display: flex;
-    justify-content: space-between;
-    padding: 28px 48px 56px 48px;
+  width: calc(98vw - 96px);
+  height: 52px;
+  display: flex;
+  margin: 0 auto;
+  justify-content: space-between;
+  padding: 28px 0 56px;
 }
