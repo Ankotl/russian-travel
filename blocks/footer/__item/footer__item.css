@@ -1,4 +1,4 @@
-.footer__links_item {
+.footer__item {
   text-decoration: none;
   color: inherit;
   padding: 0;
@@ -9,12 +9,12 @@
   transition: opacity 200ms ease-in-out;
 }
 
-.footer__links_item:hover {
+.footer__item:hover {
   opacity: 0.8;
 }
 
 @media screen and (max-width: 767px) {
-  .footer__links_item {
+  .footer__item {
     font-size: 24px;
     line-height: 1;
   }
