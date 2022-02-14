@@ -7,3 +7,25 @@
   line-height: 1.2;
   text-align: center;
 }
+
+@media screen and (max-width: 1279px) {
+  .lead__subtitle {
+    max-width: calc(100% - 2 * 144px);
+    padding-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__subtitle {
+    max-width: calc(100% - 2 * 64px);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__subtitle {
+    max-width: calc(100% - 2 * 16px);
+    padding: 16px 0 40px;
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}

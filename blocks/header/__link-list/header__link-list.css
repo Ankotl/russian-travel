@@ -1,0 +1,6 @@
+.header__lang-list {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  list-style: none;
+}
