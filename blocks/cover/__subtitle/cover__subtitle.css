@@ -7,6 +7,7 @@
   line-height: 1.22;
   text-align: center;
   text-rendering: optimizeLegibility;
+  z-index: 1;
 }
 
 @media screen and (max-width: 1279px) {
