@@ -1,5 +1,5 @@
 .cover__link {
-  color: var(--basic-white);
+  color: white;
   text-decoration: none;
   display: flex;
   flex-direction: column;
